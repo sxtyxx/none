@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hola! Soy LittleKingPlaysHN 🦇</h1>
+  <h1 align="center">Hola! Soy Federico 🦇</h1>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Apasionado por los videojuegos y el desarrollo. Creando experiencias digitales desde Honduras para el mundo :0.</strong>
+  <strong>Apasionado por los videojuegos y el desarrollo. Creando experiencias digitales desde Venezuela para el mundo :0.</strong>
 </p>
 
 <p align="center">
@@ -47,8 +47,8 @@
 </h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LittleKingPlaysHN&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleKingPlaysHN&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sxtyxx&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxtyxx&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" />
 </p>
 
 <p align="center">
@@ -65,10 +65,10 @@
 </h2>
 
 <p align="center">
-  <a href="https://twitter.com/LittleKingPlaysHN" target="_blank">
+  <a href="https://twitter.com/federicovnzl" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/LittleKingPlaysHN" target="_blank">
+  <a href="https://linkedin.com/in/federicovnzl" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
